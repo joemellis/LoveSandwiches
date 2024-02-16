@@ -53,3 +53,4 @@ def validate_data(values):
 
 
 data = get_sales_data()
+print(data)
